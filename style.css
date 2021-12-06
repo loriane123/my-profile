@@ -1,0 +1,31 @@
+h1{font-size: 25px}
+
+body{text-align: justify;
+background-color:#E8D7FB;
+margin:20px;
+border:1px solid #9C3D54;
+border-radius: 1px;
+padding: 40px;
+font-family:Helvetica
+}
+
+img{margin: 0px 450px;
+border-radius:150px;
+box-shadow: 10px 10px 35px rgba(50,50,93,0.5)}
+
+h2{color:purple;
+font-size: 20px}
+
+h3{font-size: 15px
+color:rgb(136;97;237);}
+
+p,ul{background: white;
+padding: 30px;
+border-radius: 4px;
+box-shadow: 0 10px 30px rgba(0,0,0,.1)}
+
+@media (max-width: 500px) {
+ .container  {background-color: grey}
+}
+}
+
